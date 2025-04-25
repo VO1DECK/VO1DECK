@@ -1,10 +1,10 @@
-# 👻 VO1DECK
+# 👻 VO1DΞCK
 
 No gods. No masters.  
 Only signal, never noise.
 
-- 🛡️ Cybersecurity Specialist in training  
-- ⚙️ Linux, Network Recon, Automation  
+- 🛡️ Cybersecurity Operator in training  
+- ⚙️ Linux, Network Recon, Offensive Tooling  
 - 🧠 Building AI-infused cyber systems  
 - 🌐 [HackTheBox Profile](https://app.hackthebox.com/) *(Coming soon)*
 
